@@ -16,6 +16,7 @@
             </intent-filter>
         </activity>
         <service android:name=".boundservice.MyBoundService"></service>
+        <service android:name=".startedservice.MyIntentService"></service>
     </application>
 
 </manifest>
